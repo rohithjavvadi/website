@@ -1,0 +1,27 @@
+---
+title: "Projects"
+editor: visual
+---
+HRanalytics
+ GMU
+ • Analyzing the HRdata with Random showcase insights with the dashboards with the help of powerbi.
+ • Technical Skills: Python(Numpy), R, Power BI
+
+ Covid19analysis
+ GMU
+ • Analyzed covid‑19 dataset, cleaned it and processed it through R Programming languages.
+ • Technical Skills: Python with Numpy, R Programming.
+ 
+ Vehicle Health Monitoring using IOT
+ SRMIST
+ Chennai, India
+ • It is a real‑time vehicle health monitoring system designed and developed to detect and identify the actuator and sensor faults created automatically or manually by the user of the vehicle .
+ • Technical Skills: Java, Embedded c, Cloud Network.
+ 
+ Crowd Funding
+ SRMIST
+ Chennai, India
+ Jan 2023‑ Jun2023
+ • Crowd funding is a collective effort of a large number of individuals who network and pool small amounts of capital finance work existing
+ idea.
+ • Technical Skills: Block Chain Technology, Distributive Ledger, Solidity
