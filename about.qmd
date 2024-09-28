@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-About this site
+I’m a Master’s student passionate about blending technology, analytics, and hands-on problem-solving to create seamless experiences. With strong experience in customer service, event management, and technical troubleshooting, I thrive in dynamic environments where attention to detail and adaptability are key. I’m proficient in operating and managing audiovisual systems, and I’m continually expanding my technical skill set, delving into data analytics and big data technologies.
 
-```{r}
-1 + 1
-```
+Whether working behind the scenes at events or diving into data to extract insights, I’m dedicated to delivering high-quality, lasting results. My journey in mastering new technologies is ongoing, with a current focus on R Studio and big data platforms. As I continue learning and growing, I look forward to bringing my unique skills to new challenges and opportunities.
