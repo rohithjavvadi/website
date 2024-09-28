@@ -1,0 +1,44 @@
+---
+title: "ROHITH JAVVADI"
+
+about:
+  id: hero-heading
+  template: jolla
+  image: piv.jpg
+  links:
+    - icon: telephone
+      text: XXXXXXX
+    - icon: book
+      text: Resume
+      href: Rohith_Resume...pdf
+    - icon: github
+      text: Github
+      href: https://github.com/rohithjavvadi
+    - icon: cake
+      text: 06/11/2003
+
+---
+
+
+ :::
+
+ Results‑driven Master’s student with strong problem‑solving skills and a passion for data analytics and data science
+
+## Education
+
+George Mason University, Fairfax | Fairfax, USA
+Masters in Data Analytics Engineering | Aug 2024 - Present
+
+SRM IST , KTR | Chennai, INDIA
+B.Tech in cse with specialisation in Blockchain Technology | Sept 2020 - May 2024
+
+
+## Experience
+
+AICTE | CLloud data intern | May 2023 - July2023
+
+
+:::
+
+
+```
