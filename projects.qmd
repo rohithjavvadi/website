@@ -2,20 +2,20 @@
 title: "Projects"
 editor: visual
 ---
-HRanalytics
+HR analytics
  GMU
- • Analyzing the HRdata with Random showcase insights with the dashboards with the help of powerbi.
+ • Analyzing the HRdata with Random showcase insights with the dashboards with the help of Powerbi.
  • Technical Skills: Python(Numpy), R, Power BI
 
  Covid19analysis
  GMU
- • Analyzed covid‑19 dataset, cleaned it and processed it through R Programming languages.
+ • Analyzed covid‑19 dataset, cleaned it, and processed it through R Programming languages.
  • Technical Skills: Python with Numpy, R Programming.
  
  Vehicle Health Monitoring using IOT
  SRMIST
  Chennai, India
- • It is a real‑time vehicle health monitoring system designed and developed to detect and identify the actuator and sensor faults created automatically or manually by the user of the vehicle .
+ • It is a real‑time vehicle health monitoring system designed and developed to detect and identify the actuator and sensor faults created automatically or manually by the user of the vehicle.
  • Technical Skills: Java, Embedded c, Cloud Network.
  
  Crowd Funding
