@@ -1,0 +1,10 @@
+---
+title: "Skills"
+editor: visual
+---
+R programming
+SQL
+Python
+Python Frameworks
+Tableu
+Java
